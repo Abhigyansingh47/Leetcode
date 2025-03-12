@@ -3,9 +3,13 @@ This repository contains my solutions to LeetCode problems, categorized by diffi
 
 📌 Features
 ✅ Well-structured solutions categorized by topic.
+
 ✅ Solutions in JAVA.
+
 ✅ Not the best but definitely the easiest possible solution.
+
 ✅ Regular updates with new problems.
+
 
 📂 Folder Structure
 /LeetCode
