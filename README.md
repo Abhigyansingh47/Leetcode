@@ -8,7 +8,7 @@ This repository contains my solutions to LeetCode problems, categorized by diffi
 ✅ Regular updates with new problems.
 
 📂 Folder Structure
-/LeetCode-Solutions  
+/LeetCode
 │── /Easy  
 │── /Medium  
 │── /Hard  
