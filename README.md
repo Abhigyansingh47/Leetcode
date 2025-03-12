@@ -14,10 +14,10 @@ This repository contains my solutions to LeetCode problems, categorized by diffi
 
 📂 Folder Structure   
 /LeetCode   
-│── /Easy  
-│── /Medium  
-│── /Hard  
-│── README.md 
+    │── /Easy  
+    │── /Medium  
+    │── /Hard  
+    │── README.md 
 
 Navigate to a problem category and run the solution.
 
