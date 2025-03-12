@@ -12,7 +12,7 @@ This repository contains my solutions to LeetCode problems, categorized by diffi
 ✅ Regular updates with new problems.
 
 
-📂 Folder Structure
+📂 Folder Structure   
 /LeetCode   
 │── /Easy  
 │── /Medium  
