@@ -13,7 +13,9 @@ This repository contains my solutions to LeetCode problems, categorized by diffi
 
 
 📂 Folder Structure
+
 /LeetCode
+
 │── /Easy  
 │── /Medium  
 │── /Hard  
